@@ -2,13 +2,13 @@
 
 > A medieval castle-building strategy game written in **C++ with SFML**
 
-## 📖 Overview
+##  Overview
 
 Stronghold is a graphical, medieval castle-building strategy game. Players manage internal kingdom systems — economy, population, military, and disasters — to build a thriving stronghold. Phase 2 extends the game with war simulation, diplomacy, multiplayer, and an AI engine.
 
 ---
 
-## 📸 Gameplay Screenshots
+##  Gameplay Screenshots
 
 ![Start Screen](assets/screenshots/1.jpg)
 ![Gameplay 1 - Map](assets/screenshots/map.jpg)
@@ -76,7 +76,7 @@ empire-wali-game/
 
 ---
 
-## ⌨️ Controls
+##  Controls
 
 **Construction Mode**
 - `1–9` — Select building type
@@ -96,7 +96,7 @@ empire-wali-game/
 
 ---
 
-## 🛠️ Installation & Build
+##  Installation & Build
 
 ### Prerequisites
 - Windows 10/11
@@ -121,7 +121,7 @@ empire-wali-game/
 
 ---
 
-## 💻 System Requirements
+##  System Requirements
 
 | | Minimum | Recommended |
 |---|---|---|
@@ -133,7 +133,7 @@ empire-wali-game/
 
 ---
 
-## 🧩 OOP Concepts Used
+##  OOP Concepts Used
 
 - Classes & Objects
 - Inheritance & Polymorphism
@@ -144,9 +144,9 @@ empire-wali-game/
 
 ---
 
-## 👥 Contributors
-
-**Ali Ibrahim** · **Azka Faisal**
+##  Contributors
+  **Azka Faisal** 
+  **Ali Ibrahim** 
 
 ---
 
