@@ -8,6 +8,16 @@ Stronghold is a graphical, medieval castle-building strategy game. Players manag
 
 ---
 
+## 📸 Gameplay Screenshots
+
+![Start Screen](assets/screenshots/1.jpg)
+![Gameplay 1](assets/screenshots/2.jpg)
+![Gameplay 2](assets/screenshots/3.jpg)
+![Gameplay 3](assets/screenshots/4.jpg)
+
+---
+
+
 ## 🗂️ Project Structure
 
 ```
