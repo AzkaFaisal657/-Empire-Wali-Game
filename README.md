@@ -147,10 +147,3 @@ empire-wali-game/
 ##  Contributors
   **Azka Faisal** 
   **Ali Ibrahim** 
-
----
-
-## 📋 Project Status
-
-- ✅ **Phase 1 Complete** — Core Kingdom Mechanics (Building, Resources, Population, Military, Disasters)
-- 🔄 **Phase 2 In Progress** — War Simulation, AI & Diplomacy Engine, Multiplayer
